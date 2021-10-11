@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nicole's-GitHub&fontSize=90)
 
+## Preview
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isun-dev&show_icons=true&theme=radical)
 
 
-
-### Languages & Frameworks & Editors & Databases
+## My Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -17,9 +17,19 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 백준 solved.ac(분발하자!!)
+
+## 백준 solved.ac
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=florazzang)](https://solved.ac/florazzang)
 
 
+## My Goals
 
+### Algorithm: 
+- 백준: FROW BRONZE TO SILVER
+- 프로그래머스 FROM LEVER 2 TO LEVER 3
+### STUDY COMPUTER SCIENCE
+- 한국방송통신대학교
+### PROJECT
+- With BrainStorming
