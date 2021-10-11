@@ -33,3 +33,5 @@
 - 한국방송통신대학교
 ### PROJECT
 - With BrainStorming
+### GitHub
+- 1 day 1 commit
