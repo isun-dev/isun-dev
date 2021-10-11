@@ -19,7 +19,7 @@
 
 ### 백준 solved.ac(분발하자!!)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={florazzang})](https://solved.ac/{florazzang})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=florazzang)](https://solved.ac/florazzang)
 
 
 
