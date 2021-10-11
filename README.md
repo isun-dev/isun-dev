@@ -27,7 +27,7 @@
 ## My Goals
 
 ### Algorithm: 
-- 백준: FROM BRONZE TO SILVER
+- 백준: FROM SILVER S5 TO SILVER S1
 - 프로그래머스: FROM LEVEL 2 TO LEVEL 3
 ### STUDY COMPUTER SCIENCE
 - 한국방송통신대학교
