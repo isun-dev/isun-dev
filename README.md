@@ -23,17 +23,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=florazzang)](https://solved.ac/florazzang)
 
-
-## My Goals
-
-### Algorithm: 
-- 백준: FROM SILVER S5 TO SILVER S1
-- 프로그래머스: FROM LEVEL 2 TO LEVEL 3
 ### STUDY COMPUTER SCIENCE
-- 한국방송통신대학교
-### PROJECT
-- With BrainStorming
-### GitHub
-- 1 day 1 commit
-### Web Developer Roadmap
+- 한국방송통신대학교 - 컴퓨터과학과
+
+### Web Developer Roadmap - 2022
 - https://github.com/kamranahmedse/developer-roadmap
