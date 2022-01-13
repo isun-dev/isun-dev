@@ -16,15 +16,3 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-## 백준 solved.ac
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=florazzang)](https://solved.ac/florazzang)
-
-### STUDY COMPUTER SCIENCE
-- 한국방송통신대학교 - 컴퓨터과학과
-
-### Web Developer Roadmap - 2022
-- https://github.com/kamranahmedse/developer-roadmap
