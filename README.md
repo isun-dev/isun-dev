@@ -26,4 +26,4 @@
 |Algorithm|Online Class|패스트 캠퍼스 알고리즘 강의 with Java|
 
 # Routine
-1 day = 1 commit
+1 day = 1 commit => From February 13, 2022
