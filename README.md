@@ -4,10 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F19F0E&title_bg=%23DF3838&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-# Preview
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isun-dev&show_icons=true&theme=radical)
-
 
 # My Skills
 
@@ -18,6 +14,10 @@
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |  |  |   |   |   |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |  |  |   |    |   |
 | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |  |  |   |    |   |
+
+# Preview
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isun-dev&show_icons=true&theme=radical)
 
 # Learning
 |What|How|Description|
