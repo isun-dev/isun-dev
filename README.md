@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=InnSun's-GitHub&animation=fadeIn)
 
-# Hits && Routine
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisun-dev&count_bg=%2379C83D&title_bg=%23D05555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+# Routine && Learning
 
 ```Java
 while(true){
@@ -10,6 +8,11 @@ while(true){
     System.out.println('From February 13, 2022');
 }
 ```
+
+|What|How|Description|
+|------|----|---------|
+|Java, Spring|Online Class|인프런 김영한 강사님 스프링 로드맵|
+|Algorithm|Online Class|패스트 캠퍼스 알고리즘 강의 with Java|
 
 # My Skills
 
@@ -24,9 +27,3 @@ while(true){
 # Preview
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isun-dev&show_icons=true&theme=radical)
-
-# Learning
-|What|How|Description|
-|------|----|---------|
-|Java, Spring|Online Class|인프런 김영한 강사님 스프링 로드맵|
-|Algorithm|Online Class|패스트 캠퍼스 알고리즘 강의 with Java|
