@@ -1,9 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=InnSun's-GitHub&animation=fadeIn)
 
-# Hits
+# Hits && Routine
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F19F0E&title_bg=%23DF3838&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+```Java
+while(true){
+    System.out.println('1 day 1 commit');
+    System.out.println('From February 13, 2022');
+}
+```
 
 # My Skills
 
@@ -24,6 +30,3 @@
 |------|----|---------|
 |Java, Spring|Online Class|인프런 김영한 강사님 스프링 로드맵|
 |Algorithm|Online Class|패스트 캠퍼스 알고리즘 강의 with Java|
-
-# Routine
-1 day = 1 commit => From February 13, 2022
