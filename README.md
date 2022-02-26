@@ -13,6 +13,8 @@ while(true){
 |------|----|---------|
 |Java, Spring|Online Class|인프런 김영한 강사님 스프링 로드맵|
 |Algorithm|Online Class|패스트 캠퍼스 알고리즘 강의 with Java|
+|CS|Online Class|방송통신대 컴퓨터과학과|
+
 
 # My Skills
 
